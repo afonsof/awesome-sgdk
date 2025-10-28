@@ -60,6 +60,7 @@
 ## Libraries and Engines
 
 - [SGDK_PlatformerStudio](https://github.com/bolon667/SGDK_PlatformerStudio) - Easy-to-use engine to make platformers for Sega Genesis.
+- [HAMOOPIG](https://github.com/DanielMoura79/HAMOOPIG) - Game engine for Sega Genesis.
 - [scorpion-editor-demos](https://github.com/earok/scorpion-editor-demos) - Editor for Scorpion engine with demo games.
 - [megapack-megadrive](https://github.com/lab313ru/megapack-megadrive) - Mega Drive compression algorithm.
 
@@ -76,7 +77,6 @@
 ### Complete Games
 
 - [240pTestSuite](https://github.com/ArtemioUrbina/240pTestSuite) - Video game console test suite including Genesis version.
-- [HAMOOPIG](https://github.com/DanielMoura79/HAMOOPIG) - Platformer game for Sega Genesis.
 - [Metal-Slug-Warfare-Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-) - Metal Slug style game made with SGDK.
 - [Penguin-World](https://github.com/alicesim1/Penguin-World) - Indie retro isometric game for Sega Mega Drive.
 - [GoblinSGDK](https://github.com/bearmade/GoblinSGDK) - Turn-based RPG game created with SGDK.
