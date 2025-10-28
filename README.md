@@ -76,6 +76,7 @@
 ### Complete Games
 
 - [240pTestSuite](https://github.com/ArtemioUrbina/240pTestSuite) - Video game console test suite including Genesis version.
+- [HAMOOPIG](https://github.com/DanielMoura79/HAMOOPIG) - Platformer game for Sega Genesis.
 - [Metal-Slug-Warfare-Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-) - Metal Slug style game made with SGDK.
 - [Penguin-World](https://github.com/alicesim1/Penguin-World) - Indie retro isometric game for Sega Mega Drive.
 - [GoblinSGDK](https://github.com/bearmade/GoblinSGDK) - Turn-based RPG game created with SGDK.
