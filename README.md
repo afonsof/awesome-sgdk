@@ -21,7 +21,6 @@
 
 - [SGDK](https://github.com/Stephane-D/SGDK) - The main Sega Genesis Development Kit. A free and open development kit for the Sega Mega Drive.
 - [marsdev](https://github.com/andwn/marsdev) - Cross-platform Mega Drive / 32X toolchain with SGDK support.
-- [gendev](https://github.com/kubilus1/gendev) - Genesis development environment for Linux.
 - [gendev-macos](https://github.com/SONIC3D/gendev-macos) - Genesis/Mega Drive development environment for Mac OS X.
 - [sgdk_nix](https://github.com/drojaazu/sgdk_nix) - Makefiles and instructions for using SGDK in *nix environments.
 - [megadev](https://github.com/drojaazu/megadev) - A Sega Mega CD development framework in C and 68k assembly.
