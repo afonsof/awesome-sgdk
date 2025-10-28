@@ -26,7 +26,6 @@
 - [sgdk_nix](https://github.com/drojaazu/sgdk_nix) - Makefiles and instructions for using SGDK in *nix environments.
 - [megadev](https://github.com/drojaazu/megadev) - A Sega Mega CD development framework in C and 68k assembly.
 - [mdk](https://github.com/Mikejmoffitt/mdk) - Barebones Mega Drive development setup.
-- [BlastForth](https://github.com/WildChild83/BlastForth) - Development kit for the Sega Genesis/Megadrive using the Forth programming language.
 - [pysega](https://github.com/hansbonini/pysega) - Sega Genesis / Mega Drive development kit (SDK) written in Python.
 
 ## IDE and Editor Extensions
@@ -37,7 +36,6 @@
 ## Graphics Tools
 
 - [MAPeD-SPReD](https://github.com/0x8BitDev/MAPeD-SPReD) - Multi-platform development tools including map and sprite editors for Sega Mega Drive (supports SGDK).
-- [bmp2md](https://github.com/yasu-ken/bmp2md) - Mega Drive development tool for bitmap conversion.
 - [bmp2bg](https://github.com/pw32x/bmp2bg) - Exports tilemap, tileset, and palette information as C source from 16-color bitmaps.
 - [gg2c](https://github.com/pw32x/gg2c) - Command line tool that exports Graphics Gale files to C source files.
 - [Turbulence](https://github.com/Kreglar/Turbulence) - Visual asset editor for Sega Genesis development with tilemap and palette support.
@@ -73,7 +71,6 @@
 ## Libraries and Engines
 
 - [SGDK_PlatformerStudio](https://github.com/bolon667/SGDK_PlatformerStudio) - Easy-to-use engine to make platformers for Sega Genesis.
-- [libmega](https://github.com/sigflup/libmega) - A Sega Genesis development library.
 - [scorpion-editor-demos](https://github.com/earok/scorpion-editor-demos) - Editor for Scorpion engine with demo games.
 - [megapack-megadrive](https://github.com/lab313ru/megapack-megadrive) - Mega Drive compression algorithm.
 
@@ -101,7 +98,6 @@
 
 - [MegaPong](https://github.com/And-0/MegaPong) - Basic pong-like game meant as a learning template.
 - [SGDK_raycasting](https://github.com/anael-seghezzi/SGDK_raycasting) - Raycasting engine demo using SGDK.
-- [megadrive-helloworld](https://github.com/hansbonini/megadrive-helloworld) - Hello World example to get started.
 - [SGDK_Ideas](https://github.com/StevePro7/SGDK_Ideas) - Repository of many SGDK ideas and examples.
 - [SGDKcode](https://github.com/SteveProXNA/SGDKcode) - Various code projects built using SGDK.
 
