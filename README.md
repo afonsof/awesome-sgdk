@@ -33,6 +33,9 @@
 - [Turbulence](https://github.com/Kreglar/Turbulence) - Visual asset editor for Sega Genesis development with tilemap and palette support.
 - [godot2sgdk](https://github.com/fiddd0/godot2sgdk) - Export assets and data from Godot for SGDK development.
 - [SegaGenesis-BMP2HEX](https://github.com/renderedsheep/SegaGenesis-BMP2HEX) - Convert bitmap images into Sega Genesis-compatible hex data.
+- [Ether](https://github.com/junixbr/Ether) - Pixel art palette converter for transforming images into chosen palettes.
+- [SGDK_color_match](https://github.com/VagnoSilva/SGDK_color_match) - Color matcher that returns five possible tones within the Mega Drive color palette.
+- [SGDK_Gradiente_generator](https://github.com/VagnoSilva/SGDK_Gradiente_generator) - Gradient generator using the Mega Drive palette between two user-chosen colors.
 
 ## Sound and Music Tools
 
