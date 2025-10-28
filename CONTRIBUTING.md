@@ -29,6 +29,7 @@ To be on the list, projects should follow these quality standards:
 
 - Generally useful to the SGDK/Genesis development community
 - Actively maintained (unless it's a historical reference or archived for a good reason)
+- **Must have commits within the last 2 years** - Projects with no commits for more than 2 years are considered abandoned and will not be included
 - Documented
 - Tests if applicable
 
