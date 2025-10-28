@@ -58,8 +58,6 @@
 ## Emulators
 
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) - Enhanced and accurate Sega 8/16 bit emulator.
-- [BlastEm](https://www.retrodev.com/blastem/) - Highly accurate Sega Genesis/Mega Drive emulator (not on GitHub but recommended).
-- [Gens](http://www.gens.me/) - Popular Genesis/Mega Drive emulator with debugging support (not on GitHub).
 - [clownmdemu-core](https://github.com/Clownacy/clownmdemu-core) - Sega Mega Drive emulator that emphasizes portability.
 - [clownmdemu-frontend](https://github.com/Clownacy/clownmdemu-frontend) - Reference standalone frontend for ClownMDEmu.
 - [jgenesis](https://github.com/jsgroth/jgenesis) - Multi-system emulator including Genesis/Mega Drive support.
@@ -86,10 +84,6 @@
 - [SGDK Documentation](https://github.com/Stephane-D/SGDK/wiki) - Official SGDK wiki and documentation.
 - [awesome-megadrive](https://github.com/And-0/awesome-megadrive) - Curated list of Mega Drive development resources.
 - [aventuras-en-megadrive](https://github.com/danibusvlc/aventuras-en-megadrive) - Learn to program and create games (Spanish).
-
-### Books and Guides
-
-- Refer to community forums and Discord servers for up-to-date learning materials.
 
 ## Example Projects and Games
 
